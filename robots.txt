@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://atervic.github.io/sitemap.html.gz
+Sitemap: https://atervic.github.io/app/sitemap.html.gz
+Sitemap: https://atervic.github.io/assets/sitemap.html.gz
+Sitemap: https://atervic.github.io/css/sitemap.html.gz
+Sitemap: https://atervic.github.io/data/sitemap.html.gz
+Sitemap: https://atervic.github.io/includes/sitemap.html.gz
+Sitemap: https://atervic.github.io/item/sitemap.html.gz
+Sitemap: https://atervic.github.io/src/sitemap.html.gz
